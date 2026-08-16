@@ -1,4 +1,4 @@
-## Hi there 👋
+![image alt](https://github.com/vxkcu/vxkcu/blob/a68a5280ce36436e7b07b9835bc773c12dc01120/banner.jpeg)
 
 <!--
 **vxkcu/vxkcu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
