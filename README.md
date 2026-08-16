@@ -1,5 +1,3 @@
-![image alt](https://github.com/vxkcu/vxkcu/blob/a68a5280ce36436e7b07b9835bc773c12dc01120/banner.jpeg)
-
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">A high school student who wants to learn to code</h3>
 
